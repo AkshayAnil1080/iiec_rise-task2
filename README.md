@@ -1,6 +1,9 @@
-# this the task 2 of IIEC_RISE
+# This is the task 2 of IIEC_RISE
 
-creating an cgi web server using redhat liunx.
+Creating an cgi web server using redhat liunx.
+
+what is happening?
+Acessing the webserver (made on linux) via http protocol and then accessing cgi program to do perform some of the following commands.
 
 *you can run docker here, 
 *can add multiple users remotely to your system
